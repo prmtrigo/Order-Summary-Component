@@ -39,6 +39,16 @@ main section{
     width: 100%;
 }
 
+main section h1{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: var(--dark-blue);
+}
+
+main section span{
+    
+}
+
 main img{
     width: 100%;
     border-radius: 1rem 1rem 0 0;
