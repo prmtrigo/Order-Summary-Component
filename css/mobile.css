@@ -1,0 +1,6 @@
+@media (min-width: 900px)
+{
+    body{
+        background-image: url('/order-summary-component-main/images/pattern-background-desktop.svg');
+    }
+}
